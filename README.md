@@ -1,3 +1,4 @@
+# School Project
 # Library Management-System
 This is a project assigned to our team members (Deepak Kar, Attaullah Khan, Ayush Samal) to do in class 12th as a computer science student
 
