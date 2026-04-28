@@ -1,16 +1,16 @@
-# School Project
-# Library Management-System
-This is a project assigned to our team members (Deepak Kar, Attaullah Khan, Ayush Samal) to do in class 12th as a computer science student
+# Hi 👋, I'm Deepak Kumar Kar
 
-## Main Program Structure
+🎓 Computer Science Student  
+💡 Interested in Generative AI, Machine Learning & Development  
+🚀 Currently learning and building projects  
 
-The main program is organized into four branches: **Total Books**, **Issued Books**,**Books returned (on time)** and **Books returned(delayed)**.
-## Total Books
-### Books available
--**Total books available**
- -Function to dislay total books in the library
--**Books unavailable**
- -Function to check how many books are not there from total books 
--**Exit**
- -Function to return to main menu
-## Issued Books
+---
+
+## 🔧 Skills
+- Python  
+- Machine Learning  
+- Git & GitHub  
+- Data Analysis  
+
+---
+
