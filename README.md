@@ -90,7 +90,7 @@ I'm a **Computer Science student** passionate about **Generative AI, Machine Lea
 I'm always open to collaborations, discussions, and learning from the community. Feel free to reach out!
 
 - 💼 **GitHub**: [@DeepakKar17](https://github.com/DeepakKar17)
-- 📧 **Email**: [Contact me](mailto:deepak@example.com)
+- 📧 **Email**: [Contact me](mailto:deepakkumarkar190@gmail.com)
 - 🔗 **Portfolio**: Coming soon!
 
 ---
