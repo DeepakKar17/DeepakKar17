@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Deepak Kumar Kar
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=🎓+CS+Student;🤖+AI+%26+ML+Enthusiast;💻+Full-Stack+Developer;🚀+Building+Cool+Projects" alt="Typing SVG" />
-</div>
 
 ---
 
